@@ -38,7 +38,8 @@ class Prime
         return true;
     }     
 }
-public class Solution {
+public class PrimeChecker
+{
 
 	public static void main(String[] args) {
 		try{
