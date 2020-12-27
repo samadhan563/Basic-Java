@@ -1,6 +1,6 @@
 /*
 	10. ATM Interface
-	This is the longest Java tutorial on this list at just over 2 hours, but it’s an excellent project to take on. In addition to being the longest, this is probably the 
+	This is the longest Java tutorial on this list at just over 2 hours, but itâ€™s an excellent project to take on. In addition to being the longest, this is probably the 
 	most complex project on this list. So once this ATM Interface is complete, what will it be able to do?
 	
 	
@@ -8,12 +8,13 @@
 	to enter their unique user id to access their account. After that, the user will be prompted to enter their pin number. If entered successfully, they will be granted 
 	access to their account. Once inside their account, they will be able to view the balance in the checking and savings account, as well as the following options:
 	
-	• Show account transactions
-	• Withdraw
-	• Deposit
-	• Transfer
-	• Quit
+	â€¢ Show account transactions
+	â€¢ Withdraw
+	â€¢ Deposit
+	â€¢ Transfer
+	â€¢ Quit
 */
+//
 package bankmanagement;
 import java.util.Scanner;
 public class DemoUser 
